@@ -6,9 +6,27 @@ layout: default
   <h1>{{ site.title }}</h1>
   <hr />
 
+
+
   <ol class="posts">
+
+<!--
+      <div class="row">
+        {% for e in site.medium_posts %}
+        <h3>{{e.title}}</h3>
+        <p>{{e.feed_content}}</p>
+        {% endfor %}     
+      </div>
+-->
+
     {% for post in paginator.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+      <li>
+          {% if post.external_url %}
+            <a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}, {{ post.publisher }}</span></i>
+          {% else %}
+            <a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}, {{ post.publisher }}</span></i>
+          {% endif %}
+      </li>
     {% endfor %}
   </ol>
 

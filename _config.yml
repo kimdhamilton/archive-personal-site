@@ -1,11 +1,11 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+title: OKim's Razor
+description: Exploring the least likely
+author: Kim Duffy
+github: https://github.com/kimdhamilton
+about: Blockchain, Self-sovereign identity
+#disqus_shortname: stackproblems
+#google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/me_lil.jpg
 
 enableTags: true
 tagarray: []
@@ -14,32 +14,30 @@ collections:
   project:
     output: true
     permalink: /project/:path/
+  medium_posts:
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/kimdhamilton"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/kimdhamilton/"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/kimdhamilton"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username: kimdhamilton
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
+    - text: Projects
       url: /projects/
+    - text: Talks
+      url: /talks/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://kimdhamilton.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20

@@ -29,10 +29,9 @@ layout: default
           {% assign p_url = nil %}
           {% for pr in p_array %}
             {% if pr contains i.slug %}
-              {% assign p_url = pr[1] %}
+              {% assign p_url = pr.path %}
             {% endif %}
           {% endfor %}
-
           {% if p_url == nil %}{% assign p_url = i.url %}{% endif %}
           {% if p_url %}
             <a class="project-detail" href="{{ p_url }}">
@@ -53,7 +52,7 @@ layout: default
           </div>
           <div class="project-footer">
             {% if i.url %}
-              <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
+              <a href="{{ p_url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
             {% endif %}
             <span class="project-timeline">{{ i.date }}</span>
           </div>
