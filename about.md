@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-CTO [Learning Machine](learningmachine.com), Principal Architect of [Blockcerts](blockcerts.org).
+CTO [Learning Machine](https://www.learningmachine.com/), Principal Architect of [Blockcerts](https://www.blockcerts.org/).
 
 ### Communities
 - Steering committee [Decentralized Identity Foundation](https://identity.foundation/)
