@@ -34,8 +34,8 @@ urls:
       url: /projects/
     - text: Talks
       url: /talks/
-    - text: XML Feed
-      url: /feed.xml
+#    - text: XML Feed
+#      url: /feed.xml
 
 url: "https://kimdhamilton.github.io"
 baseurl: ""
