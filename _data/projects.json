@@ -14,5 +14,12 @@
 		"url": "/project/btcr-project/",
 		"date": "March 2019",
 		"tags": ["btcr", "did", "ssi"]
+	},
+	{
+		"slug": "dcc-project",
+		"name": "DCC",
+		"url": "/project/dcc-project/",
+		"date": "August 2020",
+		"tags": ["did", "ssi", "vc"]
 	}
 ]
