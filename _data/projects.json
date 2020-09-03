@@ -18,6 +18,7 @@
 	{
 		"slug": "dcc-project",
 		"name": "DCC",
+		"image": "dcc_logo.png",
 		"url": "/project/dcc-project/",
 		"date": "August 2020",
 		"tags": ["did", "ssi", "vc"]
