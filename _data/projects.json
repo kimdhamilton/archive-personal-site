@@ -5,7 +5,7 @@
 		"image": "blockcerts.png",
 		"url": "/project/blockcerts-project/",
 		"date": "March 2019",
-		"tags": ["blockcerts", "ssi"]
+		"tags": ["blockcerts"]
 	},
 	{
 		"slug": "btcr-project",
@@ -13,7 +13,7 @@
 		"image": "btcr.png",
 		"url": "/project/btcr-project/",
 		"date": "March 2019",
-		"tags": ["btcr", "did", "ssi"]
+		"tags": ["btcr", "did"]
 	},
 	{
 		"slug": "dcc-project",
@@ -21,6 +21,6 @@
 		"image": "dcc_logo.jpg",
 		"url": "/project/dcc-project/",
 		"date": "August 2020",
-		"tags": ["did", "ssi", "vc"]
+		"tags": ["did", "vc"]
 	}
 ]

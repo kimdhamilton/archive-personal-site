@@ -12,11 +12,11 @@ It's completely open source, so you can experiment with the BTCR playground (whi
 Some BTCR links:
 - [BTCR Playground](https://github.com/WebOfTrustInfo/btcr-tx-playground.github.io)
 - Libraries:
-    - https://github.com/WebOfTrustInfo/btcr-did-tools-js
-    - https://github.com/WebOfTrustInfo/txref-conversion-js
+    - [https://github.com/WebOfTrustInfo/btcr-did-tools-js](https://github.com/WebOfTrustInfo/btcr-did-tools-js)
+    - [https://github.com/WebOfTrustInfo/txref-conversion-js](https://github.com/WebOfTrustInfo/txref-conversion-js)
 - [BTCR DID Resolver Specification](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.pdf), Apr 16, 2018, Rebooting Web of Trust
 
 ## About DIDs
-DIDs are a building block of the [self-sovereign identity (SSI)](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) stack. The [DID Draft Report](https://w3c-ccg.github.io/did-spec/) is under development at the [W3C Credentials Community Group](https://w3c-ccg.github.io/), which I co-chair. We are working on turning this into a W3C Working Group for continued development as an international standard.
+Decentralized Identifiers are a new type of identifier that enables verifiable, decentralized digital identity. It is an [emerging standard](https://www.w3.org/TR/did-core/) which is currently W3C Working Group for continued development as an international standard.  
 
 My [SSI Meetup](http://ssimeetup.org) webinar ["DIDs Demystified"](http://ssimeetup.org/dids-demystified-hands-intro-dids-btcr-did-method-kim-hamilton-duffy-webinar-5/) provides an introduction to DIDs that may be interesting for technically-oriented folks. In this webinar, I deep dive into the BTCR DID method spec, which is one of the simpler DID methods (and therefore easiest to understand from an implementation perspective). (Note: [SSI Meetup](http://ssimeetup.org) has many interesting webinars on the emerging self-sovereign identity stack, which I encourage you to check out.)

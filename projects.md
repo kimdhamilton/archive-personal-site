@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Example projects I've worked on, with pointers to code. See more on https://github.com/kimdhamilton.
+Example projects I've worked on, with pointers to code. See more on [https://github.com/kimdhamilton](https://github.com/kimdhamilton).
 
 - Digital Credentials Consortium Verifiable Credentials Implementation [https://github.com/digitalcredentials](https://github.com/digitalcredentials)
 - Blockcerts [https://github.com/blockchain-certificates](https://github.com/blockchain-certificates)
