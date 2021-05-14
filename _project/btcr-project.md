@@ -10,6 +10,7 @@ BTCR is a Decentralized Identifier (DID) method specification based on the bitco
 It's completely open source, so you can experiment with the BTCR playground (which demonstrates BTCR DID lookup and creation), supporting libraries, and specifications around resolving BTCR DIDs. This is a community effort, and if you'd like to be involved, please let me know (@kimdhamilton on twitter).
 
 Some BTCR links:
+- [BTCR Method Spec](https://w3c-ccg.github.io/didm-btcr/)
 - [BTCR Playground](https://github.com/WebOfTrustInfo/btcr-tx-playground.github.io)
 - Libraries:
     - [https://github.com/WebOfTrustInfo/btcr-did-tools-js](https://github.com/WebOfTrustInfo/btcr-did-tools-js)
