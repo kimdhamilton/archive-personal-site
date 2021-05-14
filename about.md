@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Throughout my career, I've focused on scaleable system design, algorithms, and core library/API design and implementation. In more recent years, I've specialized in decentralized credentialing + identity solutions and blockchain-based architectures -- an in particular, navigating when the former and latter should (and should not) meet.
+Throughout my career, I've focused on scaleable system design, algorithms, and core library/API design and implementation. 
+
+In more recent years, I've specialized in decentralized credentialing + identity solutions and blockchain-based architectures -- including clarifying when the former and latter should meet.
 
 My mission is to expand opportunities to individuals through recognition of learning and skills gained beyond the traditional classroom.
 
