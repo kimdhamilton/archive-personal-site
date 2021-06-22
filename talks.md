@@ -6,6 +6,7 @@ permalink: /talks/
 
 | Conference/Forum | Talk Link | Date | 
 |--|--|--|
+| [MIT J-WEL](https://jwel.mit.edu/) | [Building Interoperable Learner-Centric Credentialing Infrastructure](https://jwel.mit.edu/assets/video/digital-credentials-consortium-building-interoperable-learner-centric-credentialing) | Jun 2021 |
 | Vienna Digital Identity Meetup | [Digital Identity in Education](https://www.thedinglegroup.com/blog/2020/10/4/digital-identity-in-education) | Oct 2020 |
 | Ed3.0 Research Network | [Digital Credentials Consortium Overview](https://www.youtube.com/watch?v=41NdmYGdLPE) | May 2020 |
 |[FIGI Security Clinic 2019](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/201912/Pages/default.aspx) | [ITU Interview with Kim Hamilton Duffy](https://www.youtube.com/watch?v=Nj0ypHIU8w8) | December 2019 |
