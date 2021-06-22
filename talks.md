@@ -6,6 +6,7 @@ permalink: /talks/
 
 | Conference/Forum | Talk Link | Date | 
 |--|--|--|
+| The Rubric Podcast | [did:btcr, the Grandaddy of DIDs](https://the-rubric.castos.com/episodes/the-granddaddy-of-dids) | Jun 2021 |
 | [MIT J-WEL](https://jwel.mit.edu/) | [Building Interoperable Learner-Centric Credentialing Infrastructure](https://jwel.mit.edu/assets/video/digital-credentials-consortium-building-interoperable-learner-centric-credentialing) | Jun 2021 |
 | Vienna Digital Identity Meetup | [Digital Identity in Education](https://www.thedinglegroup.com/blog/2020/10/4/digital-identity-in-education) | Oct 2020 |
 | Ed3.0 Research Network | [Digital Credentials Consortium Overview](https://www.youtube.com/watch?v=41NdmYGdLPE) | May 2020 |
