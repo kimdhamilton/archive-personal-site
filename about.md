@@ -8,17 +8,15 @@ Throughout my career, I've focused on scaleable system design, algorithms, and c
 
 In more recent years, I've specialized in decentralized credentialing + identity solutions and blockchain-based architectures -- including clarifying when the former and latter should meet.
 
-My mission is to expand opportunities to individuals through recognition of learning and skills gained beyond the traditional classroom.
+### Current Role
+- Director Identity and Standards, Centre Consortium
 
-### Current Roles
 
+### Recent Activities
 - Architect [Digital Credentials Consortium](https://digitalcredentials.mit.edu/) at [MIT Open Learning](https://openlearning.mit.edu/)
 	- DCC is a multi-university, international effort designing the future of academic credentials. 
 	- Our goal is to enable interoperable, standards-based credentials that put learners in control of their data.
 - Co-chair [W3C Credentials Community Group](https://www.w3.org/community/credentials/)
-
-### Recent Activities
-
 - Steering committee [Decentralized Identity Foundation](https://identity.foundation/)
 - Technical Lead [T3 Innovation Network](https://www.uschamberfoundation.org/t3-innovation) Pilot Project 10, Empowering the American Student and Worker
 - Guest Editor, [IEEE Dawn of the Internet Identity Layer](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/dawn-internet-identity-layer-and)
@@ -37,5 +35,4 @@ My mission is to expand opportunities to individuals through recognition of lear
 - Wrote [Learning UML 2.0](https://smile.amazon.com/Learning-UML-2-0-Pragmatic-Introduction-ebook/dp/B0028N4WII/ref=sr_1_2?dchild=1&keywords=learning+uml+2.0&qid=1614793107&sr=8-2) back in the aughts.
 - B.S. in Mathematics from University of Texas at Austin and an M.S. in Applied Math from Cornell. 
 
-[Bio for talks](kim_bio.txt)
 
