@@ -1,7 +1,0 @@
-Kim Hamilton Duffy is Architect of the Digital Credentials Consortium -- a multi-university, international effort designing the future of academic credentials -- in her role at MIT Open Learning. Her expertise is interoperable, standards-based credentials and decentralized identity solutions. Previously, she co-created the successful open-source, open-standard Blockcerts project with the MIT Media Lab. 
-
-Kim is a co-chair of the W3C Credentials Community Group, driving decentralized identity standards, such as the Verifiable Credentials and Decentralized Identifier (DID) specifications. She led design and development of the first open source DID method based on the Bitcoin blockchain, called the Bitcoin Reference (BTCR) DID method.
-
-Kim's mission is to expand opportunities to individuals through recognition of learning and skills gained beyond the traditional classroom, and her focus is building the interoperable, privacy-enabling open standards and infrastructure to accomplish this.
-
-Kim has a B.S. in Mathematics from University of Texas at Austin and an M.S. in Applied Math from Cornell.
